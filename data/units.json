@@ -713,7 +713,7 @@
 		"units": [
 			{
 				"name": "Pound-force per square inch", 
-				"symbol": ["psi"", lbf/in²", "lbf/in²"],
+				"symbol": ["psi", "lbf/in²", "lbf/in²"],
 				"in-base-unit": {
 					"multiplier": 6894.75729, 
 					"zero-point": 0
